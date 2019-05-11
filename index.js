@@ -159,9 +159,8 @@ const categories = {
 	'unfocused': [],
 	'career': [],
 	'timesheets': [],
-	'lunch': [],
+	// 'lunch': [],
 	'people': [],
-	// 'recruitment': [],
 	'mentoring': [],
 	'pip': [],
 	'vms': [],
@@ -211,6 +210,9 @@ function categorize(duration, summary) {
 		}
 		else if (summary.toLowerCase().includes('squad')) {
 			categories.people.push({duration, summary})
+		}
+		else if (summary.toLowerCase().includes('lunch')) {
+			//don't count lunch;
 		}
 		else {
 			categories.other.push({duration, summary})
