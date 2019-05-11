@@ -5,6 +5,7 @@ email = email platform
 career = my own career development
 mentoring = mentoring outside of my line management
 competencies = engineering competines working group
+35h work week
 
 HOURS SPENT OVER 17 MEASURED DAYS
 [ { category: 'admin', duration: 29 },
@@ -16,7 +17,6 @@ HOURS SPENT OVER 17 MEASURED DAYS
   { category: 'unfocused', duration: 8 },
   { category: 'career', duration: 12 },
   { category: 'timesheets', duration: 10 },
-  { category: 'lunch', duration: 11 },
   { category: 'people', duration: 13 },
   { category: 'mentoring', duration: 1 },
   { category: 'pip', duration: 8 },
@@ -24,10 +24,10 @@ HOURS SPENT OVER 17 MEASURED DAYS
   { category: 'facebook', duration: 2 },
   { category: 'competencies', duration: 3 },
   { category: 'other', duration: 8 } ]
-{ totalHours: 164 }
-{ avgHoursPerDay: 10 }
-{ avgHoursPerWeek: 50 }
-{ avgEffort: '143%' }
+{ totalHours: 153 }
+{ avgHoursPerDay: 9 }
+{ avgHoursPerWeek: 45 }
+{ avgEffort: '129%' }
 { splits:
    [ { category: 'admin', percentage: '17%' },
      { category: 'email', percentage: '10%' },
@@ -38,7 +38,6 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { category: 'unfocused', percentage: '5%' },
      { category: 'career', percentage: '7%' },
      { category: 'timesheets', percentage: '6%' },
-     { category: 'lunch', percentage: '6%' },
      { category: 'people', percentage: '8%' },
      { category: 'mentoring', percentage: '1%' },
      { category: 'pip', percentage: '5%' },
@@ -232,21 +231,6 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '0.75', summary: 'Timesheets' },
      { duration: '0.75', summary: 'Timesheets ' },
      { duration: '0.75', summary: 'Timesheets' } ],
-  lunch:
-   [ { duration: '0.50', summary: 'Lunch' },
-     { duration: '0.75', summary: 'lunch' },
-     { duration: '0.75', summary: 'Lunch' },
-     { duration: '0.50', summary: 'Lunch' },
-     { duration: '0.50', summary: 'Lunch' },
-     { duration: '1.00', summary: 'Lunch' },
-     { duration: '1.50', summary: 'Lunch - EP Team lunch' },
-     { duration: '1.00', summary: 'Lunch' },
-     { duration: '0.75', summary: 'Lunch' },
-     { duration: '0.75', summary: 'Lunch' },
-     { duration: '0.50', summary: 'Lunch' },
-     { duration: '0.50', summary: 'Lunch' },
-     { duration: '1.00', summary: 'Lunch' },
-     { duration: '1.00', summary: 'Lunch' } ],
   people:
    [ { duration: '0.50', summary: 'People TP ' },
      { duration: '0.50', summary: 'People DM 1:1' },
