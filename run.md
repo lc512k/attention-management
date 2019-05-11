@@ -266,7 +266,7 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '0.75', summary: 'People - peakon feedback' },
      { duration: '0.50', summary: 'People - KJ ' },
      { duration: '0.25', summary: 'People - AW' },
-     { duration: '0.50', summary: 'People - Bhargava Peakon' },
+     { duration: '0.50', summary: 'People - Peakon' },
      { duration: '0.75', summary: 'People - new leaders group ' },
      { duration: '0.50', summary: 'Junior Squad 2' },
      { duration: '1.25', summary: 'People - KR' } ],
