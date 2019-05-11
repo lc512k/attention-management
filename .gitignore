@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+.env
+scripts/biz-ops/tmp/*
+!scripts/biz-ops/tmp/.gitkeep
+.DS_Store
+credentials.json
+token.json
