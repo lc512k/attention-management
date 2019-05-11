@@ -1,3 +1,11 @@
+```
+
+NB
+email = email platform
+career = my own career development
+mentoring = mentoring outside of my line management
+competencies = engineering competines working group
+
 HOURS SPENT OVER 17 MEASURED DAYS
 [ { category: 'admin', duration: 29 },
   { category: 'email', duration: 17 },
@@ -240,7 +248,7 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '1.00', summary: 'Lunch' },
      { duration: '1.00', summary: 'Lunch' } ],
   people:
-   [ { duration: '0.50', summary: 'People RP ' },
+   [ { duration: '0.50', summary: 'People TP ' },
      { duration: '0.50', summary: 'People DM 1:1' },
      { duration: '0.25', summary: 'People KJ TLC' },
      { duration: '0.50', summary: 'People - KK' },
@@ -258,7 +266,7 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '0.75', summary: 'People - peakon feedback' },
      { duration: '0.50', summary: 'People - KJ ' },
      { duration: '0.25', summary: 'People - AW' },
-     { duration: '0.50', summary: 'People - Bhargava Peakon' },
+     { duration: '0.50', summary: 'People - Peakon' },
      { duration: '0.75', summary: 'People - new leaders group ' },
      { duration: '0.50', summary: 'Junior Squad 2' },
      { duration: '1.25', summary: 'People - KR' } ],
@@ -303,3 +311,4 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '0.25', summary: 'Recruitment' },
      { duration: '0.25', summary: 'Break' },
      { duration: '0.75', summary: 'Recruitment - makers chat' } ] }
+     ```
