@@ -248,7 +248,7 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '1.00', summary: 'Lunch' },
      { duration: '1.00', summary: 'Lunch' } ],
   people:
-   [ { duration: '0.50', summary: 'People RP ' },
+   [ { duration: '0.50', summary: 'People TP ' },
      { duration: '0.50', summary: 'People DM 1:1' },
      { duration: '0.25', summary: 'People KJ TLC' },
      { duration: '0.50', summary: 'People - KK' },
