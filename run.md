@@ -1,3 +1,4 @@
+```
 HOURS SPENT OVER 17 MEASURED DAYS
 [ { category: 'admin', duration: 29 },
   { category: 'email', duration: 17 },
@@ -303,3 +304,4 @@ HOURS SPENT OVER 17 MEASURED DAYS
      { duration: '0.25', summary: 'Recruitment' },
      { duration: '0.25', summary: 'Break' },
      { duration: '0.75', summary: 'Recruitment - makers chat' } ] }
+     ```
