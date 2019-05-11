@@ -1,3 +1,8 @@
+NB email = email platform
+career = my own career development
+mentoring = mentoring outside of my line management
+competencies = engineering competines working group
+
 ```
 HOURS SPENT OVER 17 MEASURED DAYS
 [ { category: 'admin', duration: 29 },
