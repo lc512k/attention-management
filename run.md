@@ -6,6 +6,7 @@ career = my own career development
 mentoring = mentoring outside of my line management
 competencies = engineering competines working group
 35h work week
+time spent on lunch ignored
 
 HOURS SPENT OVER 17 MEASURED DAYS
 [ { category: 'admin', duration: 29 },
